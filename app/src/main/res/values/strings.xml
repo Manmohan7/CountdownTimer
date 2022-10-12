@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Countdown Timer</string>
+    <string name="reset">Reset</string>
+    <string name="pause">Pause</string>
+    <string name="start">Start</string>
+    <string name="add_10_sec">+10 sec</string>
+    <string name="add_5_sec">+5 sec</string>
+    <string name="add_1_sec">+1 sec</string>
+</resources>
